@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudstreetmarketapi/cloudstreetmarketapi.iml" filepath="$PROJECT_DIR$/cloudstreetmarketapi/cloudstreetmarketapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudstreetmarketcore/cloudstreetmarketcore.iml" filepath="$PROJECT_DIR$/cloudstreetmarketcore/cloudstreetmarketcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudstreetmarketparent.iml" filepath="$PROJECT_DIR$/cloudstreetmarketparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudstreetmarketwebapp/cloudstreetmarketwebapp.iml" filepath="$PROJECT_DIR$/cloudstreetmarketwebapp/cloudstreetmarketwebapp.iml" />
+    </modules>
+  </component>
+</project>
